@@ -81,7 +81,7 @@ Once the application is running, open your web browser and go to `http://localho
 
 Here’s a screenshot of the application in action:
 
-![Gemini LLM Application Screenshot](./path/to/Screenshot 2024-08-22 160624.png)
+![Gemini LLM Application Screenshot](./Screenshot%202024-08-22%20160624.png)
 
 
 ## Environment Variables
@@ -94,12 +94,16 @@ GOOGLE_API_KEY=your_google_api_key_here
 
 ## Project Structure
 
+``` bash
+
 ├── .env                      # Environment variables file
 ├── .gitignore                # Files and directories to be ignored by Git
 ├── LICENSE                   # License file
 ├── README.md                 # Project documentation
 ├── vision.py                 # Main application file
 ├── requirements.txt          # List of dependencies
+
+```
 
 ## Contributing 
 
